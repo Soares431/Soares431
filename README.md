@@ -2,9 +2,9 @@
 
 Faço Ciencia da Computação na Unicap, Atualmente estou desenvolvendo meu jogo *Black Light*. Em breve, irei divulgá-lo.
 
-- 🖥️ Programador Back-end 
+- 🖥️ Programador Back-end e Técnico em Informática
 - 🕹️ Desenvolvedor de Jogos
-- 📖 Esutdante de TI
+- 📖 Estudante de TI
 
 
 
