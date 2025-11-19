@@ -1,6 +1,6 @@
 ## Eai, Sou Lucas Soares 😎
 
-Faço Ciencia da Computação na Unicap e desenvolvimento de Sistema no ETE Porto Digital;
+Faço Ciencia da Computação na Unicap sou técnica em desenvolvimento de Sistema no ETE Porto Digital e em Informática no SENAI
 
 Atualmente estou desenvolvendo meu jogo *Black Light*. Em breve, irei divulgá-lo.
 
