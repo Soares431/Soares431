@@ -7,8 +7,8 @@ Atualmente, curso **Ciência da Computação** na **Universidade Católica de Pe
 No momento, estou desenvolvendo o jogo *Black Light*, aplicando conceitos de programação, lógica e desenvolvimento de software.
 
 
-- 🖥️ Programador Back-end
-- 🔧Técnico em Informática
+- 🖥️ Back-end Developer
+- 🔧 Suporte Têcnico
 - 🕹️ Desenvolvedor de Jogos
 - 📖 Estudante de TI
 
