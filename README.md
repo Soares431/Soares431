@@ -1,8 +1,11 @@
 ## Eai, Sou Lucas Soares 😎
 
-Faço Ciencia da Computação na Unicap sou técnica em desenvolvimento de Sistema no ETE Porto Digital e em Informática no SENAI
+Sou estagiário na área de Tecnologia da Informação, com experiência em automação de processos e *web scraping* utilizando **Python** e **Selenium**.
 
-Atualmente estou desenvolvendo meu jogo *Black Light*. Em breve, irei divulgá-lo.
+Atualmente, curso **Ciência da Computação** na **Universidade Católica de Pernambuco (UNICAP)**. Sou formado como **Técnico em Desenvolvimento de Sistemas** pela **ETE Porto Digital** e em **Informática** pelo **SENAI**.
+
+No momento, estou desenvolvendo o jogo *Black Light*, aplicando conceitos de programação, lógica e desenvolvimento de software.
+
 
 - 🖥️ Programador Back-end
 - 🔧Técnico em Informática
