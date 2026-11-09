@@ -4,11 +4,8 @@ Estagiário na área de Tecnologia da Informação, com experiência em automaç
 
 Atualmente curso **Ciência da Computação** na **Universidade Católica de Pernambuco (UNICAP)**. Sou formado como **Técnico em Desenvolvimento de Sistemas** pela **ETE Porto Digital** e em **Informática** pelo **SENAI**.
 
-No momento, estou desenvolvendo o jogo *Black Light*, aplicando conceitos de programação, lógica e desenvolvimento de software.
-
 - 🖥️ Back-end Developer
 - 🔧 Suporte Técnico
-- 🕹️ Desenvolvedor de Jogos
 - 📖 Estudante de TI
 
 ---
